@@ -16,8 +16,6 @@
 - **Adobe Target** implementations for personalization & A/B testing  
 - Real-world **Generative AI** integrations within AEM for content authoring, automation & personalization  
 
-### Featured Projects
-→ Check my **pinned repositories** below
 
 ### Tech Stack
 **Adobe Experience Manager (Cloud Service)** • **Edge Delivery Services** • **Adobe Target** • **Generative AI** • **Java** • **JavaScript** • **Python** • **AI/ML** • **Docker** • **GitHub Actions**
